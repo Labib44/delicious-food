@@ -1,0 +1,48 @@
+[
+    {
+        
+        "title": "Mutton Biryani",
+        "img": "https://i.ibb.co/qx1hjtC/mutton-biryani-korma-curd-chutney-onion-salad-mutton-biryani-delicious-dish-made-lamb-meat-spices-he.jpg",
+        "price": "19.00",
+        "review":"4.05",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt,"
+    },
+    
+    {
+       
+        "title": "Grilled salmon fillet with salad",
+        "img": "https://i.ibb.co/7KthS9z/Grilled.jpg",
+        "price": "14.00",
+        "review":"5.00",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt,"
+    },
+    {
+        
+        "title": "Chicken Biryan",
+        "img": "https://i.ibb.co/Wc8ypwz/chicken-biryani-biriani-beriani-set-rice-based-foods-made-spices-rice-usually-basmati-meat-fish-eggs.jpg",
+        "price": "23.00",
+        "review":"4.00",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt,"
+    },
+    {
+        
+        "title": "Chicken Biryan hyderabad",
+        "img": "https://i.ibb.co/hg5GXn3/boneless-chicken-biryani-hyderabad-deccan-rice-dish-made-meat-vegetables-slow-cooking-process-dum-av.jpg",
+        "price": "20.00",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt,"
+    },
+    {
+        
+        "title": "Chicken Fried",
+        "img": "https://i.ibb.co/B3hzZr6/chicken-fried-biryani-hyderabad-deccan-rice-dish-made-meat-vegetables-slow-cooking-process-dum-avail.jpg",
+        "price": "20.00",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt,"
+    },
+    {
+       
+        "title": "Chicken in Teriyaki Sauce",
+        "img": "https://i.ibb.co/nmyK79v/Teriyaki.jpg",
+        "price": "20.00",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, "
+    }
+]
